@@ -1,0 +1,52 @@
+#secao-contatos {
+     color: #fff;
+     background-color: #05031b;
+}
+
+.box-contatos-e-redes {
+     margin-top: 4rem;
+     display: flex;
+     justify-content: center;
+}
+
+.box-informacoes {
+     margin-top: 1.2rem;
+     display: flex;
+     flex-direction: column;
+}
+
+.box-informacoes figure {
+     display: flex;
+     align-items: center;
+     margin: 5px 0;
+}
+
+.box-informacoes figure img {
+     width: 18px;
+     height: 18px;
+     margin-right: 1rem;
+}
+
+.box-contato,
+.box-redes-sociais {
+     text-align: left;
+     margin: 10px 20px;
+}
+
+/*MEDIA QUERY*/
+
+@media (max-width: 590px) {
+     .box-titulo-secoes {
+          margin-bottom: 2.5rem;
+     }
+     .box-contatos-e-redes {
+          width: fit-content;
+          margin: 0 auto;
+          flex-direction: column;
+     }
+     .box-contato,
+     .box-redes-sociais {
+          text-align: center;
+          margin: 1rem 0;
+     }
+}
