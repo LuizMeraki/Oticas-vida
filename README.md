@@ -17,10 +17,9 @@
 
 ## Sobre
 
-<p>Meu primeiro app React, desenvolvido utilizando a convenção de componentes, na qual cada seção da página representa um. Esta página é sobre uma loja de óculos que apresenta tais produtos, aqui você pode ver modelos e preços, descobrir mais sobre a loja na seção sobre e pode entrar em contato com os dados disponíveis na seção contatos.
-</p>
+<p>Meu primeiro app React, desenvolvido utilizando a convenção de componentes, na qual cada seção da página representa um. Gostei muito dessa tecnologia excepcional. Continuo colocando a mão nos códigos e estudando muito!</p>
 
-<p>Gostei muito dessa tecnologia excepcional. Continuo colocando a mão nos códigos e estudando muito!</p>
+<p>Este é um site de uma loja de óculos para apresentar seus produtos, aqui você pode ver modelos e preços, descobrir mais sobre a loja na seção sobre e pode contatá-los com os dados disponíveis na seção contatos.</p>
 
 ### Entre no site da Óticas Vida
 
