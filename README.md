@@ -2,7 +2,8 @@
 
 <br>
  
- 
+ ![otica](https://user-images.githubusercontent.com/75648386/195609410-6102d26a-091c-47a6-993b-fa9638eba9be.gif)
+
 <br>
 
 <div align="center">
@@ -21,7 +22,7 @@
 
 <p>Gostei muito dessa tecnologia excepcional. Continuo colocando a mão nos códigos e estudando muito!</p>
 
-### Entre no site da Sorveteria Gelateria
+### Entre no site da Óticas Vida
 
 Link: <a href="https://luizmeraki.github.io/Oticas-vida/" target="blank">Óticas Vida</a>
 
